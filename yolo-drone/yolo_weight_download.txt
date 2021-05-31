@@ -1,0 +1,5 @@
+Please download the yolov4 weights from this link and place it in this folder:
+
+https://drive.google.com/file/d/1nuWyMl9-FwXJ2wtClU55NKYljqpzqU5i/view?usp=sharing
+
+This can be accessed by anyone in the UTS group.

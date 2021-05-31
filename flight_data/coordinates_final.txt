@@ -1,0 +1,1929 @@
+-33.79994152	151.15673270	Launching…	none
+-33.79994156	151.15673263	Launching…	none
+-33.79994163	151.15673255	Launching…	none
+-33.79994166	151.15673246	Launching…	none
+-33.79994173	151.15673237	Launching…	none
+-33.79994178	151.15673227	Launching…	none
+-33.79994181	151.15673217	Launching…	none
+-33.79994183	151.15673207	Launching…	none
+-33.79994187	151.15673199	Launching…	none
+-33.79994190	151.15673192	Launching…	none
+-33.79994195	151.15673188	Launching…	none
+-33.79994199	151.15673183	Launching…	none
+-33.79994204	151.15673177	Launching…	none
+-33.79994207	151.15673172	Launching…	none
+-33.79994211	151.15673171	Launching…	none
+-33.79994212	151.15673173	Launching…	none
+-33.79994213	151.15673178	Launching…	none
+-33.79994214	151.15673185	Launching…	none
+-33.79994218	151.15673189	Launching…	none
+-33.79994221	151.15673193	Launching…	none
+-33.79994233	151.15673185	Launching…	none
+-33.79994242	151.15673177	Launching…	none
+-33.79994260	151.15673165	Launching, Home Point established.	home
+-33.79994275	151.15673154	Launching, Home Point established.	home
+-33.79994295	151.15673149	Launching, Home Point established.	none
+-33.79994310	151.15673146	Launching, Home Point established.	none
+-33.79994325	151.15673144	Launching, Home Point established.	none
+-33.79994335	151.15673142	Launching, Home Point established.	none
+-33.79994346	151.15673143	Launching, Home Point established.	none
+-33.79994353	151.15673144	Launching, Home Point established.	none
+-33.79994364	151.15673137	Launching, Home Point established.	none
+-33.79994372	151.15673130	Launching, Home Point established.	none
+-33.79994378	151.15673132	Launching, Home Point established.	none
+-33.79994384	151.15673132	Launching, Home Point established.	none
+-33.79994394	151.15673137	Launching, Home Point established.	none
+-33.79994403	151.15673137	Launching, Home Point established.	none
+-33.79994408	151.15673142	Launching, Home Point established.	none
+-33.79994413	151.15673143	Launching, Home Point established.	none
+-33.79994413	151.15673149	Launching, Home Point established.	none
+-33.79994415	151.15673152	Launching, Home Point established.	none
+-33.79994416	151.15673146	Launching, Home Point established.	none
+-33.79994419	151.15673140	Launching, Home Point established.	none
+-33.79994422	151.15673126	Launching, Home Point established.	none
+-33.79994424	151.15673114	Launching, Home Point established.	none
+-33.79994421	151.15673109	Launching, Home Point established.	none
+-33.79994416	151.15673105	Launching, Home Point established.	none
+-33.79994413	151.15673111	Launching, Home Point established.	none
+-33.79994409	151.15673114	Launching, Home Point established.	none
+-33.79994416	151.15673119	Launching, Home Point established.	none
+-33.79994421	151.15673121	Launching, Home Point established.	none
+-33.79994427	151.15673125	Launching, Home Point established.	none
+-33.79994430	151.15673128	Launching, Home Point established.	none
+-33.79994434	151.15673130	Launching, Home Point established.	none
+-33.79994437	151.15673131	Launching, Home Point established.	none
+-33.79994438	151.15673140	Launching, Home Point established.	none
+-33.79994436	151.15673144	Launching, Home Point established.	none
+-33.79994434	151.15673145	Launching, Home Point established.	none
+-33.79994429	151.15673145	Launching, Home Point established.	none
+-33.79994420	151.15673152	Launching, Home Point established.	none
+-33.79994411	151.15673158	Launching, Home Point established.	none
+-33.79994405	151.15673165	Launching, Home Point established.	none
+-33.79994398	151.15673172	Launching, Home Point established.	none
+-33.79994381	151.15673192	Launching, Home Point established.	none
+-33.79994365	151.15673210	Launching, Home Point established.	none
+-33.79994354	151.15673225	Launching, Home Point established.	none
+-33.79994346	151.15673237	Launching, Home Point established.	none
+-33.79994351	151.15673234	Launching, Home Point established.	none
+-33.79994354	151.15673232	Launching, Home Point established.	none
+-33.79994361	151.15673222	Launching, Home Point established.	none
+-33.79994364	151.15673214	Launching, Home Point established.	none
+-33.79994373	151.15673202	Launching, Home Point established.	none
+-33.79994377	151.15673194	Launching, Home Point established.	none
+-33.79994389	151.15673200	Launching, Home Point established.	none
+-33.79994396	151.15673207	Launching, Home Point established.	none
+-33.79994406	151.15673228	Launching, Home Point established.	none
+-33.79994412	151.15673244	Launching, Home Point established.	none
+-33.79994418	151.15673251	Launching, Home Point established.	none
+-33.79994421	151.15673256	Launching, Home Point established.	none
+-33.79994421	151.15673279	Launching, Home Point established.	none
+-33.79994419	151.15673299	Launching, Home Point established.	none
+-33.79994414	151.15673334	Launching, Home Point established.	none
+-33.79994409	151.15673364	Launching, Home Point established.	none
+-33.79994410	151.15673394	Launching, Home Point established.	none
+-33.79994410	151.15673418	Launching, Home Point established.	none
+-33.79994411	151.15673430	Launching, Home Point established.	none
+-33.79994411	151.15673441	Launching, Home Point established.	none
+-33.79994416	151.15673445	Launching, Home Point established.	none
+-33.79994418	151.15673451	Launching, Home Point established.	none
+-33.79994429	151.15673445	Launching, Home Point established.	none
+-33.79994436	151.15673444	Launching, Home Point established.	none
+-33.79994450	151.15673444	Launching, Home Point established.	none
+-33.79994460	151.15673450	Launching, Home Point established.	none
+-33.79994471	151.15673445	Launching, Home Point established.	none
+-33.79994479	151.15673445	Launching, Home Point established.	none
+-33.79994490	151.15673437	Launching, Home Point established.	none
+-33.79994498	151.15673433	Launching, Home Point established.	none
+-33.79994504	151.15673424	Launching, Home Point established.	none
+-33.79994508	151.15673419	Launching, Home Point established.	none
+-33.79994506	151.15673412	Launching, Home Point established.	none
+-33.79994504	151.15673407	Launching, Home Point established.	none
+-33.79994500	151.15673406	Launching, Home Point established.	none
+-33.79994497	151.15673407	Launching, Home Point established.	none
+-33.79994501	151.15673416	Launching, Home Point established.	none
+-33.79994504	151.15673423	Launching, Home Point established.	none
+-33.79994514	151.15673439	Launching, Home Point established.	none
+-33.79994521	151.15673451	Launching, Home Point established.	none
+-33.79994536	151.15673472	Launching, Home Point established.	none
+-33.79994547	151.15673489	Launching, Home Point established.	none
+-33.79994560	151.15673508	Launching, Home Point established.	none
+-33.79994570	151.15673523	Launching, Home Point established.	none
+-33.79994576	151.15673547	Launching, Home Point established.	none
+-33.79994580	151.15673567	Launching, Home Point established.	none
+-33.79994587	151.15673587	Launching, Home Point established.	none
+-33.79994592	151.15673604	Launching, Home Point established.	none
+-33.79994600	151.15673621	Launching, Home Point established.	none
+-33.79994606	151.15673636	Launching, Home Point established.	none
+-33.79994616	151.15673652	Launching, Home Point established.	none
+-33.79994624	151.15673665	Launching, Home Point established.	none
+-33.79994635	151.15673673	Launching, Home Point established.	none
+-33.79994642	151.15673682	Launching, Home Point established.	none
+-33.79994643	151.15673699	Launching, Home Point established.	none
+-33.79994642	151.15673715	Launching, Home Point established.	none
+-33.79994647	151.15673730	Launching, Home Point established.	none
+-33.79994649	151.15673744	Launching, Home Point established.	none
+-33.79994651	151.15673760	Launching, Home Point established.	none
+-33.79994651	151.15673776	Launching, Home Point established.	none
+-33.79994650	151.15673786	Launching, Home Point established.	none
+-33.79994648	151.15673797	Launching, Home Point established.	none
+-33.79994644	151.15673809	Launching, Home Point established.	none
+-33.79994639	151.15673824	Precise Landing Position saved.	none
+-33.79994630	151.15673841	Precise Landing Position saved.	none
+-33.79994622	151.15673857	Precise Landing Position saved.	none
+-33.79994612	151.15673866	Precise Landing Position saved.	none
+-33.79994604	151.15673875	Precise Landing Position saved.	none
+-33.79994603	151.15673889	Precise Landing Position saved.	none
+-33.79994601	151.15673903	Precise Landing Position saved.	none
+-33.79994602	151.15673913	Precise Landing Position saved.	none
+-33.79994602	151.15673924	Precise Landing Position saved.	none
+-33.79994601	151.15673936	Precise Landing Position saved.	none
+-33.79994598	151.15673948	Precise Landing Position saved.	none
+-33.79994595	151.15673966	Precise Landing Position saved.	none
+-33.79994590	151.15673983	Precise Landing Position saved.	none
+-33.79994587	151.15674000	Precise Landing Position saved.	none
+-33.79994584	151.15674017	Precise Landing Position saved.	none
+-33.79994583	151.15674034	Precise Landing Position saved.	none
+-33.79994580	151.15674051	Precise Landing Position saved.	none
+-33.79994578	151.15674065	Precise Landing Position saved.	none
+-33.79994574	151.15674078	Precise Landing Position saved.	none
+-33.79994573	151.15674096	Precise Landing Position saved.	none
+-33.79994570	151.15674113	Precise Landing Position saved.	none
+-33.79994566	151.15674132	Precise Landing Position saved.	none
+-33.79994561	151.15674149	Precise Landing Position saved.	none
+-33.79994558	151.15674161	Precise Landing Position saved.	none
+-33.79994552	151.15674173	Precise Landing Position saved.	none
+-33.79994545	151.15674181	Precise Landing Position saved.	none
+-33.79994537	151.15674189	Precise Landing Position saved.	none
+-33.79994531	151.15674197	Precise Landing Position saved.	none
+-33.79994525	151.15674206	Precise Landing Position saved.	none
+-33.79994521	151.15674212	Precise Landing Position saved.	none
+-33.79994516	151.15674220	Precise Landing Position saved.	none
+-33.79994514	151.15674230	Precise Landing Position saved.	none
+-33.79994509	151.15674242	Precise Landing Position saved.	none
+-33.79994506	151.15674254	Precise Landing Position saved.	none
+-33.79994501	151.15674266	Precise Landing Position saved.	none
+-33.79994497	151.15674277	Precise Landing Position saved.	none
+-33.79994490	151.15674289	Precise Landing Position saved.	none
+-33.79994488	151.15674299	Precise Landing Position saved.	none
+-33.79994484	151.15674310	Precise Landing Position saved.	none
+-33.79994486	151.15674316	Precise Landing Position saved.	none
+-33.79994484	151.15674322	Precise Landing Position saved.	none
+-33.79994487	151.15674324	Precise Landing Position saved.	none
+-33.79994487	151.15674326	Precise Landing Position saved.	none
+-33.79994492	151.15674321	Precise Landing Position saved.	none
+-33.79994493	151.15674317	Precise Landing Position saved.	none
+-33.79994499	151.15674309	Precise Landing Position saved.	none
+-33.79994502	151.15674303	Precise Landing Position saved.	none
+-33.79994511	151.15674295	Precise Landing Position saved.	none
+-33.79994518	151.15674289	Precise Landing Position saved.	none
+-33.79994526	151.15674278	Precise Landing Position saved.	none
+-33.79994531	151.15674269	Precise Landing Position saved.	none
+-33.79994537	151.15674259	Precise Landing Position saved.	none
+-33.79994540	151.15674250	Precise Landing Position saved.	none
+-33.79994544	151.15674238	Precise Landing Position saved.	none
+-33.79994544	151.15674230	Precise Landing Position saved.	none
+-33.79994548	151.15674222	Precise Landing Position saved.	none
+-33.79994549	151.15674216	Precise Landing Position saved.	none
+-33.79994550	151.15674213	Precise Landing Position saved.	none
+-33.79994548	151.15674212	Precise Landing Position saved.	none
+-33.79994551	151.15674212	Precise Landing Position saved.	none
+-33.79994552	151.15674213	Precise Landing Position saved.	none
+-33.79994558	151.15674211	Precise Landing Position saved.	none
+-33.79994563	151.15674209	Precise Landing Position saved.	none
+-33.79994569	151.15674210	Precise Landing Position saved.	none
+-33.79994572	151.15674211	Precise Landing Position saved.	none
+-33.79994574	151.15674214	Precise Landing Position saved.	none
+-33.79994574	151.15674215	Precise Landing Position saved.	none
+-33.79994570	151.15674219	Precise Landing Position saved.	none
+-33.79994566	151.15674220	Precise Landing Position saved.	none
+-33.79994559	151.15674225	Precise Landing Position saved.	none
+-33.79994552	151.15674227	Precise Landing Position saved.	none
+-33.79994542	151.15674226	Precise Landing Position saved.	none
+-33.79994532	151.15674224	Precise Landing Position saved.	none
+-33.79994526	151.15674224	Precise Landing Position saved.	none
+-33.79994521	151.15674227	Precise Landing Position saved.	none
+-33.79994513	151.15674237	Precise Landing Position saved.	none
+-33.79994507	151.15674247	Precise Landing Position saved.	none
+-33.79994506	151.15674262	Precise Landing Position saved.	none
+-33.79994505	151.15674276	Precise Landing Position saved.	none
+-33.79994509	151.15674292	Precise Landing Position saved.	none
+-33.79994512	151.15674305	Precise Landing Position saved.	none
+-33.79994523	151.15674314	Precise Landing Position saved.	none
+-33.79994532	151.15674322	Precise Landing Position saved.	none
+-33.79994545	151.15674331	Precise Landing Position saved.	none
+-33.79994556	151.15674339	Precise Landing Position saved.	none
+-33.79994568	151.15674345	Precise Landing Position saved.	none
+-33.79994577	151.15674350	Precise Landing Position saved.	none
+-33.79994588	151.15674348	Precise Landing Position saved.	none
+-33.79994595	151.15674348	Precise Landing Position saved.	none
+-33.79994597	151.15674347	Precise Landing Position saved.	none
+-33.79994596	151.15674346	Precise Landing Position saved.	none
+-33.79994593	151.15674343	Precise Landing Position saved.	none
+-33.79994590	151.15674341	Precise Landing Position saved.	none
+-33.79994584	151.15674343	Precise Landing Position saved.	none
+-33.79994577	151.15674346	Precise Landing Position saved.	none
+-33.79994571	151.15674350	Precise Landing Position saved.	none
+-33.79994565	151.15674356	Precise Landing Position saved.	none
+-33.79994567	151.15674359	Precise Landing Position saved.	none
+-33.79994567	151.15674362	Moving to start search.	none
+-33.79994575	151.15674366	Moving to start search.	none
+-33.79994579	151.15674369	Moving to start search.	none
+-33.79994585	151.15674373	Moving to start search.	none
+-33.79994587	151.15674378	Moving to start search.	none
+-33.79994590	151.15674383	Moving to start search.	none
+-33.79994589	151.15674386	Moving to start search.	none
+-33.79994586	151.15674392	Moving to start search.	none
+-33.79994580	151.15674395	Moving to start search.	none
+-33.79994575	151.15674387	Moving to start search.	none
+-33.79994568	151.15674378	Moving to start search.	none
+-33.79994566	151.15674370	Moving to start search.	none
+-33.79994560	151.15674363	Moving to start search.	none
+-33.79994559	151.15674354	Moving to start search.	none
+-33.79994556	151.15674346	Moving to start search.	none
+-33.79994562	151.15674336	Moving to start search.	none
+-33.79994565	151.15674330	Moving to start search.	none
+-33.79994561	151.15674335	Moving to start search.	none
+-33.79994555	151.15674340	Moving to start search.	none
+-33.79994552	151.15674342	Moving to start search.	none
+-33.79994549	151.15674341	Moving to start search.	none
+-33.79994554	151.15674340	Moving to start search.	none
+-33.79994557	151.15674337	Moving to start search.	none
+-33.79994565	151.15674332	Moving to start search.	none
+-33.79994572	151.15674329	Moving to start search.	none
+-33.79994575	151.15674336	Moving to start search.	none
+-33.79994576	151.15674343	Moving to start search.	none
+-33.79994582	151.15674356	Moving to start search.	none
+-33.79994587	151.15674365	Moving to start search.	none
+-33.79994597	151.15674376	Moving to start search.	none
+-33.79994604	151.15674385	Moving to start search.	none
+-33.79994611	151.15674397	Moving to start search.	none
+-33.79994614	151.15674405	Moving to start search.	none
+-33.79994620	151.15674415	Moving to start search.	none
+-33.79994623	151.15674420	Moving to start search.	none
+-33.79994625	151.15674424	Moving to start search.	none
+-33.79994622	151.15674427	Moving to start search.	none
+-33.79994614	151.15674431	Moving to start search.	none
+-33.79994606	151.15674432	Moving to start search.	none
+-33.79994598	151.15674428	Moving to start search.	none
+-33.79994588	151.15674421	Moving to start search.	none
+-33.79994579	151.15674407	Moving to start search.	none
+-33.79994568	151.15674395	Moving to start search.	none
+-33.79994557	151.15674389	Moving to start search.	none
+-33.79994542	151.15674388	Moving to start search.	none
+-33.79994531	151.15674394	Moving to start search.	none
+-33.79994520	151.15674397	Moving to start search.	none
+-33.79994510	151.15674390	Moving to start search.	none
+-33.79994498	151.15674378	Moving to start search.	none
+-33.79994487	151.15674360	Moving to start search.	none
+-33.79994478	151.15674345	Moving to start search.	none
+-33.79994480	151.15674333	Moving to start search.	none
+-33.79994483	151.15674326	Moving to start search.	none
+-33.79994493	151.15674319	Moving to start search.	none
+-33.79994501	151.15674310	Moving to start search.	none
+-33.79994510	151.15674299	Moving to start search.	none
+-33.79994515	151.15674290	Moving to start search.	none
+-33.79994515	151.15674283	Moving to start search.	none
+-33.79994511	151.15674279	Moving to start search.	none
+-33.79994509	151.15674275	Moving to start search.	none
+-33.79994511	151.15674274	Moving to start search.	none
+-33.79994520	151.15674276	Moving to start search.	none
+-33.79994532	151.15674280	Moving to start search.	none
+-33.79994552	151.15674281	Moving to start search.	none
+-33.79994573	151.15674284	Moving to start search.	none
+-33.79994597	151.15674291	Moving to start search.	none
+-33.79994617	151.15674301	Moving to start search.	none
+-33.79994629	151.15674312	Moving to start search.	none
+-33.79994634	151.15674319	Moving to start search.	none
+-33.79994633	151.15674325	Moving to start search.	none
+-33.79994624	151.15674328	Moving to start search.	none
+-33.79994598	151.15674324	Moving to start search.	none
+-33.79994566	151.15674316	Moving to start search.	none
+-33.79994524	151.15674303	Moving to start search.	none
+-33.79994481	151.15674295	Moving to start search.	none
+-33.79994435	151.15674292	Moving to start search.	none
+-33.79994391	151.15674296	Moving to start search.	none
+-33.79994352	151.15674308	Moving to start search.	none
+-33.79994317	151.15674324	Moving to start search.	none
+-33.79994294	151.15674350	Moving to start search.	none
+-33.79994275	151.15674382	Moving to start search.	none
+-33.79994275	151.15674422	Moving to start search.	none
+-33.79994281	151.15674457	Moving to start search.	none
+-33.79994299	151.15674480	Moving to start search.	none
+-33.79994313	151.15674496	Moving to start search.	none
+-33.79994336	151.15674503	Moving to start search.	none
+-33.79994351	151.15674510	Moving to start search.	none
+-33.79994361	151.15674508	Moving to start search.	none
+-33.79994363	151.15674509	Moving to start search.	none
+-33.79994361	151.15674512	Moving to start search.	none
+-33.79994356	151.15674516	Moving to start search.	none
+-33.79994355	151.15674524	Moving to start search.	none
+-33.79994355	151.15674534	Moving to start search.	none
+-33.79994360	151.15674545	Moving to start search.	none
+-33.79994364	151.15674556	Moving to start search.	none
+-33.79994364	151.15674569	Moving to start search.	none
+-33.79994360	151.15674581	Moving to start search.	none
+-33.79994359	151.15674591	Moving to start search.	none
+-33.79994361	151.15674600	Moving to start search.	none
+-33.79994366	151.15674607	Moving to start search.	none
+-33.79994369	151.15674612	Moving to start search.	none
+-33.79994378	151.15674615	Moving to start search.	none
+-33.79994387	151.15674620	Moving to start search.	none
+-33.79994398	151.15674627	Moving to start search.	none
+-33.79994404	151.15674632	Moving to start search.	none
+-33.79994407	151.15674636	Moving to start search.	none
+-33.79994409	151.15674641	Moving to start search.	none
+-33.79994415	151.15674645	Moving to start search.	none
+-33.79994421	151.15674654	Moving to start search.	none
+-33.79994429	151.15674664	Moving to start search.	none
+-33.79994436	151.15674677	Moving to start search.	none
+-33.79994445	151.15674691	Moving to start search.	none
+-33.79994451	151.15674704	Moving to start search.	none
+-33.79994460	151.15674715	Moving to start search.	none
+-33.79994467	151.15674723	Moving to start search.	none
+-33.79994479	151.15674728	Moving to start search.	none
+-33.79994491	151.15674734	Moving to start search.	none
+-33.79994505	151.15674738	Moving to start search.	none
+-33.79994520	151.15674737	Moving to start search.	none
+-33.79994538	151.15674729	Moving to start search.	none
+-33.79994554	151.15674717	Moving to start search.	none
+-33.79994566	151.15674690	Moving to start search.	none
+-33.79994574	151.15674658	Moving to start search.	none
+-33.79994575	151.15674620	Moving to start search.	none
+-33.79994569	151.15674585	Moving to start search.	none
+-33.79994554	151.15674556	Moving to start search.	none
+-33.79994536	151.15674538	Moving to start search.	none
+-33.79994515	151.15674532	Moving to start search.	none
+-33.79994496	151.15674527	Moving to start search.	none
+-33.79994480	151.15674531	Moving to start search.	none
+-33.79994464	151.15674535	Moving to start search.	none
+-33.79994458	151.15674541	Moving to start search.	none
+-33.79994453	151.15674547	Moving to start search.	none
+-33.79994453	151.15674552	Moving to start search.	none
+-33.79994453	151.15674555	Moving to start search.	none
+-33.79994460	151.15674554	Moving to start search.	none
+-33.79994465	151.15674549	Moving to start search.	none
+-33.79994471	151.15674537	Moving to start search.	none
+-33.79994472	151.15674523	Moving to start search.	none
+-33.79994475	151.15674508	Moving to start search.	none
+-33.79994472	151.15674497	Searching…	none
+-33.79994463	151.15674484	Searching…	none
+-33.79994449	151.15674475	Searching…	none
+-33.79994434	151.15674473	Searching…	none
+-33.79994415	151.15674474	Searching…	none
+-33.79994384	151.15674484	Searching…	none
+-33.79994343	151.15674496	Searching…	none
+-33.79994287	151.15674512	Searching…	none
+-33.79994218	151.15674527	Searching…	none
+-33.79994130	151.15674538	Searching…	none
+-33.79994024	151.15674549	Searching…	none
+-33.79993893	151.15674562	Searching…	none
+-33.79993743	151.15674577	Searching…	none
+-33.79993568	151.15674599	Searching…	none
+-33.79993377	151.15674621	Searching…	none
+-33.79993163	151.15674644	Searching…	none
+-33.79992930	151.15674664	Searching…	none
+-33.79992677	151.15674691	Searching…	none
+-33.79992406	151.15674718	Searching…	none
+-33.79992121	151.15674751	Searching…	none
+-33.79991818	151.15674783	Searching…	none
+-33.79991502	151.15674820	Searching…	none
+-33.79991172	151.15674857	Searching…	none
+-33.79990840	151.15674902	Searching…	none
+-33.79990500	151.15674941	Searching…	none
+-33.79990168	151.15674981	Searching…	none
+-33.79989830	151.15675017	Searching…	none
+-33.79989499	151.15675052	Searching…	none
+-33.79989162	151.15675086	Searching…	none
+-33.79988842	151.15675119	Searching…	none
+-33.79988521	151.15675150	Searching…	none
+-33.79988221	151.15675176	Searching…	none
+-33.79987926	151.15675200	Searching…	none
+-33.79987655	151.15675221	Searching…	none
+-33.79987392	151.15675240	Searching…	none
+-33.79987152	151.15675249	Searching…	none
+-33.79986921	151.15675256	Searching…	none
+-33.79986715	151.15675254	Searching…	none
+-33.79986518	151.15675251	Searching…	none
+-33.79986340	151.15675239	Searching…	none
+-33.79986171	151.15675227	Searching…	none
+-33.79986019	151.15675208	Searching…	none
+-33.79985874	151.15675191	Searching…	none
+-33.79985740	151.15675171	Searching…	none
+-33.79985610	151.15675157	Searching…	none
+-33.79985483	151.15675142	Searching…	none
+-33.79985361	151.15675134	Searching…	none
+-33.79985244	151.15675128	Searching…	none
+-33.79985137	151.15675124	Searching…	none
+-33.79985042	151.15675121	Searching…	none
+-33.79984964	151.15675118	Searching…	none
+-33.79984905	151.15675119	Searching…	none
+-33.79984865	151.15675137	Searching…	none
+-33.79984842	151.15675183	Searching…	none
+-33.79984827	151.15675255	Searching…	none
+-33.79984823	151.15675362	Searching…	none
+-33.79984819	151.15675491	Searching…	none
+-33.79984816	151.15675654	Searching…	none
+-33.79984816	151.15675832	Searching…	none
+-33.79984817	151.15676034	Searching…	none
+-33.79984822	151.15676256	Searching…	none
+-33.79984827	151.15676507	Searching…	none
+-33.79984835	151.15676778	Searching…	none
+-33.79984843	151.15677079	Searching…	none
+-33.79984854	151.15677405	Searching…	none
+-33.79984870	151.15677758	Searching…	none
+-33.79984887	151.15678133	Searching…	none
+-33.79984910	151.15678523	Searching…	none
+-33.79984935	151.15678926	Searching…	none
+-33.79984965	151.15679334	Searching…	none
+-33.79984995	151.15679751	Searching…	none
+-33.79985036	151.15680162	Searching…	none
+-33.79985077	151.15680579	Searching…	none
+-33.79985124	151.15680989	Searching…	none
+-33.79985166	151.15681409	Searching…	none
+-33.79985208	151.15681816	Searching…	none
+-33.79985243	151.15682230	Searching…	none
+-33.79985279	151.15682635	Searching…	none
+-33.79985310	151.15683045	Searching…	none
+-33.79985334	151.15683442	Searching…	none
+-33.79985355	151.15683845	Searching…	none
+-33.79985375	151.15684238	Searching…	none
+-33.79985393	151.15684630	Searching…	none
+-33.79985409	151.15685013	Searching…	none
+-33.79985422	151.15685399	Searching…	none
+-33.79985434	151.15685790	Searching…	none
+-33.79985441	151.15686187	Searching…	none
+-33.79985444	151.15686594	Searching…	none
+-33.79985445	151.15687011	Searching…	none
+-33.79985445	151.15687437	Searching…	none
+-33.79985446	151.15687859	Searching…	none
+-33.79985454	151.15688276	Searching…	none
+-33.79985464	151.15688687	Searching…	none
+-33.79985477	151.15689093	Searching…	none
+-33.79985491	151.15689497	Searching…	none
+-33.79985512	151.15689896	Searching…	none
+-33.79985533	151.15690292	Searching…	none
+-33.79985559	151.15690681	Searching…	none
+-33.79985584	151.15691071	Searching…	none
+-33.79985617	151.15691459	Searching…	none
+-33.79985648	151.15691847	Searching…	none
+-33.79985681	151.15692237	Searching…	none
+-33.79985711	151.15692627	Searching…	none
+-33.79985745	151.15693016	Searching…	none
+-33.79985777	151.15693402	Searching…	none
+-33.79985806	151.15693785	Searching…	none
+-33.79985833	151.15694166	Searching…	none
+-33.79985861	151.15694543	Searching…	none
+-33.79985888	151.15694918	Searching…	none
+-33.79985918	151.15695290	Searching…	none
+-33.79985948	151.15695660	Searching…	none
+-33.79985979	151.15696025	Searching…	none
+-33.79986009	151.15696389	Searching…	none
+-33.79986037	151.15696750	Searching…	none
+-33.79986063	151.15697112	Searching…	none
+-33.79986088	151.15697475	Searching…	none
+-33.79986110	151.15697843	Searching…	none
+-33.79986128	151.15698219	Searching…	none
+-33.79986144	151.15698598	Searching…	none
+-33.79986156	151.15698988	Searching…	none
+-33.79986167	151.15699378	Searching…	none
+-33.79986177	151.15699771	Searching…	none
+-33.79986187	151.15700160	Possible target detected, moving to analyse.	none
+-33.79986200	151.15700551	Possible target detected, moving to analyse.	none
+-33.79986214	151.15700937	Possible target detected, moving to analyse.	none
+-33.79986234	151.15701314	Possible target detected, moving to analyse.	none
+-33.79986255	151.15701686	Possible target detected, moving to analyse.	none
+-33.79986276	151.15702045	Possible target detected, moving to analyse.	none
+-33.79986298	151.15702403	Possible target detected, moving to analyse.	none
+-33.79986320	151.15702758	Possible target detected, moving to analyse.	none
+-33.79986339	151.15703119	Possible target detected, moving to analyse.	none
+-33.79986354	151.15703482	Possible target detected, moving to analyse.	none
+-33.79986364	151.15703846	Possible target detected, moving to analyse.	none
+-33.79986372	151.15704209	Possible target detected, moving to analyse.	none
+-33.79986380	151.15704572	Possible target detected, moving to analyse.	none
+-33.79986391	151.15704941	Possible target detected, moving to analyse.	none
+-33.79986404	151.15705311	Possible target detected, moving to analyse.	none
+-33.79986421	151.15705679	Possible target detected, moving to analyse.	none
+-33.79986439	151.15706048	Possible target detected, moving to analyse.	none
+-33.79986463	151.15706416	Possible target detected, moving to analyse.	none
+-33.79986486	151.15706787	Possible target detected, moving to analyse.	none
+-33.79986514	151.15707160	Possible target detected, moving to analyse.	none
+-33.79986540	151.15707533	Possible target detected, moving to analyse.	none
+-33.79986572	151.15707905	Possible target detected, moving to analyse.	none
+-33.79986602	151.15708277	Possible target detected, moving to analyse.	none
+-33.79986636	151.15708647	Possible target detected, moving to analyse.	none
+-33.79986667	151.15709017	Possible target detected, moving to analyse.	none
+-33.79986697	151.15709388	Possible target detected, moving to analyse.	none
+-33.79986723	151.15709759	Possible target detected, moving to analyse.	none
+-33.79986743	151.15710129	Possible target detected, moving to analyse.	none
+-33.79986761	151.15710501	Possible target detected, moving to analyse.	none
+-33.79986781	151.15710875	Possible target detected, moving to analyse.	none
+-33.79986801	151.15711250	Possible target detected, moving to analyse.	none
+-33.79986824	151.15711626	Possible target detected, moving to analyse.	none
+-33.79986846	151.15712001	Possible target detected, moving to analyse.	none
+-33.79986874	151.15712375	Possible target detected, moving to analyse.	none
+-33.79986902	151.15712754	Possible target detected, moving to analyse.	none
+-33.79986935	151.15713138	Possible target detected, moving to analyse.	none
+-33.79986964	151.15713523	Possible target detected, moving to analyse.	none
+-33.79986996	151.15713907	Possible target detected, moving to analyse.	none
+-33.79987023	151.15714286	Possible target detected, moving to analyse.	none
+-33.79987050	151.15714659	Possible target detected, moving to analyse.	none
+-33.79987071	151.15715030	Possible target detected, moving to analyse.	none
+-33.79987087	151.15715396	Possible target detected, moving to analyse.	none
+-33.79987101	151.15715764	Possible target detected, moving to analyse.	none
+-33.79987117	151.15716131	Possible target detected, moving to analyse.	none
+-33.79987132	151.15716500	Possible target detected, moving to analyse.	none
+-33.79987150	151.15716864	Possible target detected, moving to analyse.	none
+-33.79987164	151.15717233	Possible target detected, moving to analyse.	none
+-33.79987179	151.15717603	Possible target detected, moving to analyse.	none
+-33.79987190	151.15717974	Possible target detected, moving to analyse.	none
+-33.79987200	151.15718347	Possible target detected, moving to analyse.	none
+-33.79987207	151.15718722	Possible target detected, moving to analyse.	none
+-33.79987217	151.15719101	Possible target detected, moving to analyse.	none
+-33.79987222	151.15719484	Possible target detected, moving to analyse.	none
+-33.79987228	151.15719874	Possible target detected, moving to analyse.	none
+-33.79987229	151.15720263	Possible target detected, moving to analyse.	none
+-33.79987230	151.15720652	Possible target detected, moving to analyse.	none
+-33.79987230	151.15721038	Possible target detected, moving to analyse.	none
+-33.79987235	151.15721419	Possible target detected, moving to analyse.	none
+-33.79987244	151.15721793	Possible target detected, moving to analyse.	none
+-33.79987263	151.15722160	Possible target detected, moving to analyse.	none
+-33.79987285	151.15722523	Possible target detected, moving to analyse.	none
+-33.79987314	151.15722875	Possible target detected, moving to analyse.	none
+-33.79987341	151.15723226	Possible target detected, moving to analyse.	none
+-33.79987371	151.15723573	Descending to confirm.	none
+-33.79987396	151.15723924	Descending to confirm.	none
+-33.79987420	151.15724275	Descending to confirm.	none
+-33.79987441	151.15724631	Descending to confirm.	none
+-33.79987463	151.15724987	Descending to confirm.	none
+-33.79987484	151.15725339	Descending to confirm.	none
+-33.79987510	151.15725681	Descending to confirm.	none
+-33.79987535	151.15726014	Descending to confirm.	none
+-33.79987562	151.15726334	Descending to confirm.	none
+-33.79987589	151.15726641	Descending to confirm.	none
+-33.79987617	151.15726928	Descending to confirm.	none
+-33.79987642	151.15727199	Descending to confirm.	none
+-33.79987668	151.15727446	Descending to confirm.	none
+-33.79987691	151.15727678	Descending to confirm.	none
+-33.79987711	151.15727881	Descending to confirm.	none
+-33.79987732	151.15728075	Descending to confirm.	none
+-33.79987757	151.15728247	Descending to confirm.	none
+-33.79987786	151.15728405	Descending to confirm.	none
+-33.79987816	151.15728534	Descending to confirm.	none
+-33.79987839	151.15728642	Descending to confirm.	none
+-33.79987852	151.15728718	Descending to confirm.	none
+-33.79987857	151.15728773	Descending to confirm.	none
+-33.79987852	151.15728807	Descending to confirm.	none
+-33.79987846	151.15728829	Descending to confirm.	none
+-33.79987832	151.15728841	Descending to confirm.	none
+-33.79987822	151.15728851	Descending to confirm.	none
+-33.79987813	151.15728867	Descending to confirm.	none
+-33.79987808	151.15728880	Descending to confirm.	none
+-33.79987805	151.15728904	Descending to confirm.	none
+-33.79987806	151.15728925	Descending to confirm.	none
+-33.79987812	151.15728958	Descending to confirm.	none
+-33.79987821	151.15728988	Descending to confirm.	none
+-33.79987837	151.15729031	Descending to confirm.	none
+-33.79987857	151.15729072	Descending to confirm.	none
+-33.79987884	151.15729125	Descending to confirm.	none
+-33.79987908	151.15729173	Descending to confirm.	none
+-33.79987938	151.15729224	Descending to confirm.	none
+-33.79987967	151.15729276	Descending to confirm.	none
+-33.79988003	151.15729335	Descending to confirm.	none
+-33.79988031	151.15729377	Descending to confirm.	none
+-33.79988066	151.15729402	Descending to confirm.	none
+-33.79988103	151.15729412	Descending to confirm.	none
+-33.79988145	151.15729394	Person found, location marked on map, returning to search.	person
+-33.79988179	151.15729364	Person found, location marked on map, returning to search.	person
+-33.79988214	151.15729315	Person found, location marked on map, returning to search.	none
+-33.79988243	151.15729265	Person found, location marked on map, returning to search.	none
+-33.79988271	151.15729204	Person found, location marked on map, returning to search.	none
+-33.79988293	151.15729147	Person found, location marked on map, returning to search.	none
+-33.79988319	151.15729084	Person found, location marked on map, returning to search.	none
+-33.79988339	151.15729025	Person found, location marked on map, returning to search.	none
+-33.79988357	151.15728973	Person found, location marked on map, returning to search.	none
+-33.79988370	151.15728923	Person found, location marked on map, returning to search.	none
+-33.79988379	151.15728878	Person found, location marked on map, returning to search.	none
+-33.79988385	151.15728834	Person found, location marked on map, returning to search.	none
+-33.79988391	151.15728790	Person found, location marked on map, returning to search.	none
+-33.79988398	151.15728748	Person found, location marked on map, returning to search.	none
+-33.79988406	151.15728716	Person found, location marked on map, returning to search.	none
+-33.79988410	151.15728680	Person found, location marked on map, returning to search.	none
+-33.79988419	151.15728642	Person found, location marked on map, returning to search.	none
+-33.79988428	151.15728600	Person found, location marked on map, returning to search.	none
+-33.79988440	151.15728560	Person found, location marked on map, returning to search.	none
+-33.79988452	151.15728525	Person found, location marked on map, returning to search.	none
+-33.79988471	151.15728495	Person found, location marked on map, returning to search.	none
+-33.79988488	151.15728466	Person found, location marked on map, returning to search.	none
+-33.79988509	151.15728438	Person found, location marked on map, returning to search.	none
+-33.79988526	151.15728412	Person found, location marked on map, returning to search.	none
+-33.79988547	151.15728383	Person found, location marked on map, returning to search.	none
+-33.79988564	151.15728353	Person found, location marked on map, returning to search.	none
+-33.79988579	151.15728323	Person found, location marked on map, returning to search.	none
+-33.79988590	151.15728299	Person found, location marked on map, returning to search.	none
+-33.79988602	151.15728277	Person found, location marked on map, returning to search.	none
+-33.79988612	151.15728258	Person found, location marked on map, returning to search.	none
+-33.79988627	151.15728239	Person found, location marked on map, returning to search.	none
+-33.79988640	151.15728220	Person found, location marked on map, returning to search.	none
+-33.79988653	151.15728200	Person found, location marked on map, returning to search.	none
+-33.79988663	151.15728182	Person found, location marked on map, returning to search.	none
+-33.79988674	151.15728161	Person found, location marked on map, returning to search.	none
+-33.79988682	151.15728140	Person found, location marked on map, returning to search.	none
+-33.79988691	151.15728118	Person found, location marked on map, returning to search.	none
+-33.79988692	151.15728103	Person found, location marked on map, returning to search.	none
+-33.79988694	151.15728092	Person found, location marked on map, returning to search.	none
+-33.79988692	151.15728083	Person found, location marked on map, returning to search.	none
+-33.79988691	151.15728074	Person found, location marked on map, returning to search.	none
+-33.79988687	151.15728072	Person found, location marked on map, returning to search.	none
+-33.79988686	151.15728078	Searching…	none
+-33.79988685	151.15728091	Searching…	none
+-33.79988688	151.15728113	Searching…	none
+-33.79988691	151.15728146	Searching…	none
+-33.79988703	151.15728195	Searching…	none
+-33.79988715	151.15728260	Searching…	none
+-33.79988738	151.15728348	Searching…	none
+-33.79988760	151.15728461	Searching…	none
+-33.79988790	151.15728608	Searching…	none
+-33.79988815	151.15728777	Searching…	none
+-33.79988841	151.15728974	Searching…	none
+-33.79988862	151.15729190	Searching…	none
+-33.79988886	151.15729426	Searching…	none
+-33.79988906	151.15729679	Searching…	none
+-33.79988928	151.15729948	Searching…	none
+-33.79988943	151.15730234	Searching…	none
+-33.79988961	151.15730542	Searching…	none
+-33.79988975	151.15730867	Searching…	none
+-33.79988988	151.15731201	Searching…	none
+-33.79988995	151.15731549	Searching…	none
+-33.79989007	151.15731903	Searching…	none
+-33.79989013	151.15732269	Searching…	none
+-33.79989017	151.15732636	Searching…	none
+-33.79989013	151.15733012	Searching…	none
+-33.79989009	151.15733389	Searching…	none
+-33.79989001	151.15733775	Searching…	none
+-33.79988994	151.15734161	Searching…	none
+-33.79988988	151.15734552	Searching…	none
+-33.79988988	151.15734940	Searching…	none
+-33.79988988	151.15735333	Searching…	none
+-33.79988989	151.15735722	Searching…	none
+-33.79988986	151.15736117	Searching…	none
+-33.79988983	151.15736505	Searching…	none
+-33.79988975	151.15736899	Searching…	none
+-33.79988965	151.15737291	Searching…	none
+-33.79988954	151.15737688	Searching…	none
+-33.79988945	151.15738081	Searching…	none
+-33.79988940	151.15738475	Searching…	none
+-33.79988944	151.15738867	Searching…	none
+-33.79988945	151.15739262	Searching…	none
+-33.79988948	151.15739656	Searching…	none
+-33.79988954	151.15740054	Searching…	none
+-33.79988966	151.15740449	Searching…	none
+-33.79988981	151.15740845	Searching…	none
+-33.79989004	151.15741241	Searching…	none
+-33.79989028	151.15741637	Searching…	none
+-33.79989052	151.15742028	Searching…	none
+-33.79989067	151.15742414	Searching…	none
+-33.79989073	151.15742783	Searching…	none
+-33.79989077	151.15743136	Searching…	none
+-33.79989081	151.15743461	Searching…	none
+-33.79989093	151.15743762	Searching…	none
+-33.79989117	151.15744020	Searching…	none
+-33.79989152	151.15744251	Searching…	none
+-33.79989199	151.15744433	Searching…	none
+-33.79989251	151.15744590	Searching…	none
+-33.79989311	151.15744704	Searching…	none
+-33.79989372	151.15744803	Searching…	none
+-33.79989431	151.15744875	Searching…	none
+-33.79989492	151.15744935	Searching…	none
+-33.79989551	151.15744977	Searching…	none
+-33.79989617	151.15745001	Searching…	none
+-33.79989690	151.15745007	Searching…	none
+-33.79989771	151.15744989	Possible target detected, moving to analyse.	none
+-33.79989857	151.15744943	Possible target detected, moving to analyse.	none
+-33.79989953	151.15744870	Possible target detected, moving to analyse.	none
+-33.79990056	151.15744772	Possible target detected, moving to analyse.	none
+-33.79990169	151.15744648	Possible target detected, moving to analyse.	none
+-33.79990290	151.15744491	Possible target detected, moving to analyse.	none
+-33.79990416	151.15744308	Possible target detected, moving to analyse.	none
+-33.79990539	151.15744094	Possible target detected, moving to analyse.	none
+-33.79990664	151.15743854	Possible target detected, moving to analyse.	none
+-33.79990787	151.15743582	Possible target detected, moving to analyse.	none
+-33.79990917	151.15743290	Possible target detected, moving to analyse.	none
+-33.79991048	151.15742979	Possible target detected, moving to analyse.	none
+-33.79991189	151.15742651	Possible target detected, moving to analyse.	none
+-33.79991333	151.15742313	Possible target detected, moving to analyse.	none
+-33.79991485	151.15741963	Possible target detected, moving to analyse.	none
+-33.79991638	151.15741613	Possible target detected, moving to analyse.	none
+-33.79991796	151.15741254	Possible target detected, moving to analyse.	none
+-33.79991965	151.15740892	Possible target detected, moving to analyse.	none
+-33.79992136	151.15740522	Possible target detected, moving to analyse.	none
+-33.79992301	151.15740169	Possible target detected, moving to analyse.	none
+-33.79992467	151.15739810	Possible target detected, moving to analyse.	none
+-33.79992628	151.15739463	Possible target detected, moving to analyse.	none
+-33.79992792	151.15739108	Possible target detected, moving to analyse.	none
+-33.79992960	151.15738759	Possible target detected, moving to analyse.	none
+-33.79993131	151.15738405	Possible target detected, moving to analyse.	none
+-33.79993306	151.15738053	Possible target detected, moving to analyse.	none
+-33.79993485	151.15737700	Possible target detected, moving to analyse.	none
+-33.79993677	151.15737347	Possible target detected, moving to analyse.	none
+-33.79993870	151.15736996	Possible target detected, moving to analyse.	none
+-33.79994075	151.15736644	Possible target detected, moving to analyse.	none
+-33.79994277	151.15736294	Possible target detected, moving to analyse.	none
+-33.79994484	151.15735943	Possible target detected, moving to analyse.	none
+-33.79994689	151.15735592	Descending to confirm.	none
+-33.79994899	151.15735242	Descending to confirm.	none
+-33.79995107	151.15734892	Descending to confirm.	none
+-33.79995315	151.15734546	Descending to confirm.	none
+-33.79995520	151.15734199	Descending to confirm.	none
+-33.79995735	151.15733840	Descending to confirm.	none
+-33.79995946	151.15733487	Descending to confirm.	none
+-33.79996152	151.15733148	Descending to confirm.	none
+-33.79996354	151.15732816	Descending to confirm.	none
+-33.79996551	151.15732493	Descending to confirm.	none
+-33.79996746	151.15732177	Descending to confirm.	none
+-33.79996939	151.15731874	Descending to confirm.	none
+-33.79997130	151.15731579	Descending to confirm.	none
+-33.79997321	151.15731293	Descending to confirm.	none
+-33.79997507	151.15731015	Descending to confirm.	none
+-33.79997687	151.15730751	Descending to confirm.	none
+-33.79997860	151.15730500	Descending to confirm.	none
+-33.79998025	151.15730271	Descending to confirm.	none
+-33.79998181	151.15730059	Descending to confirm.	none
+-33.79998327	151.15729874	Descending to confirm.	none
+-33.79998461	151.15729706	Descending to confirm.	none
+-33.79998589	151.15729565	Descending to confirm.	none
+-33.79998708	151.15729440	Descending to confirm.	none
+-33.79998820	151.15729344	Descending to confirm.	none
+-33.79998922	151.15729261	Descending to confirm.	none
+-33.79999023	151.15729192	Descending to confirm.	none
+-33.79999113	151.15729131	Descending to confirm.	none
+-33.79999201	151.15729077	Descending to confirm.	none
+-33.79999280	151.15729019	Descending to confirm.	none
+-33.79999359	151.15728952	Descending to confirm.	none
+-33.79999434	151.15728882	Descending to confirm.	none
+-33.79999509	151.15728801	Descending to confirm.	none
+-33.79999564	151.15728737	Descending to confirm.	none
+-33.79999609	151.15728669	Descending to confirm.	none
+-33.79999640	151.15728597	Descending to confirm.	none
+-33.79999668	151.15728522	Descending to confirm.	none
+-33.79999690	151.15728455	Descending to confirm.	none
+-33.79999714	151.15728384	Descending to confirm.	none
+-33.79999738	151.15728323	Descending to confirm.	none
+-33.79999771	151.15728267	Descending to confirm.	none
+-33.79999806	151.15728215	Descending to confirm.	none
+-33.79999856	151.15728165	Descending to confirm.	none
+-33.79999904	151.15728116	Descending to confirm.	none
+-33.79999965	151.15728057	Descending to confirm.	none
+-33.80000023	151.15727998	Descending to confirm.	none
+-33.80000088	151.15727933	Descending to confirm.	none
+-33.80000148	151.15727869	Descending to confirm.	none
+-33.80000212	151.15727799	Descending to confirm.	none
+-33.80000271	151.15727732	Descending to confirm.	none
+-33.80000331	151.15727663	Descending to confirm.	none
+-33.80000387	151.15727595	Descending to confirm.	none
+-33.80000445	151.15727523	Descending to confirm.	none
+-33.80000503	151.15727456	Descending to confirm.	none
+-33.80000561	151.15727393	Descending to confirm.	none
+-33.80000616	151.15727335	Descending to confirm.	none
+-33.80000669	151.15727281	Descending to confirm.	none
+-33.80000719	151.15727231	Descending to confirm.	none
+-33.80000768	151.15727183	Descending to confirm.	none
+-33.80000813	151.15727137	Descending to confirm.	none
+-33.80000860	151.15727097	Descending to confirm.	none
+-33.80000905	151.15727072	Descending to confirm.	none
+-33.80000951	151.15727055	Descending to confirm.	none
+-33.80000996	151.15727035	Descending to confirm.	none
+-33.80001050	151.15727012	Hazard found, location marked on map, returning to search.	fire
+-33.80001100	151.15726988	Hazard found, location marked on map, returning to search.	fire
+-33.80001153	151.15726959	Hazard found, location marked on map, returning to search.	none
+-33.80001195	151.15726928	Hazard found, location marked on map, returning to search.	none
+-33.80001228	151.15726896	Hazard found, location marked on map, returning to search.	none
+-33.80001244	151.15726874	Hazard found, location marked on map, returning to search.	none
+-33.80001244	151.15726868	Hazard found, location marked on map, returning to search.	none
+-33.80001236	151.15726870	Hazard found, location marked on map, returning to search.	none
+-33.80001225	151.15726883	Hazard found, location marked on map, returning to search.	none
+-33.80001217	151.15726895	Hazard found, location marked on map, returning to search.	none
+-33.80001218	151.15726908	Hazard found, location marked on map, returning to search.	none
+-33.80001223	151.15726918	Hazard found, location marked on map, returning to search.	none
+-33.80001244	151.15726922	Hazard found, location marked on map, returning to search.	none
+-33.80001264	151.15726920	Hazard found, location marked on map, returning to search.	none
+-33.80001290	151.15726910	Hazard found, location marked on map, returning to search.	none
+-33.80001307	151.15726901	Hazard found, location marked on map, returning to search.	none
+-33.80001322	151.15726889	Hazard found, location marked on map, returning to search.	none
+-33.80001327	151.15726891	Hazard found, location marked on map, returning to search.	none
+-33.80001331	151.15726899	Hazard found, location marked on map, returning to search.	none
+-33.80001327	151.15726909	Hazard found, location marked on map, returning to search.	none
+-33.80001315	151.15726921	Hazard found, location marked on map, returning to search.	none
+-33.80001297	151.15726936	Hazard found, location marked on map, returning to search.	none
+-33.80001278	151.15726947	Hazard found, location marked on map, returning to search.	none
+-33.80001259	151.15726957	Hazard found, location marked on map, returning to search.	none
+-33.80001245	151.15726961	Hazard found, location marked on map, returning to search.	none
+-33.80001228	151.15726961	Hazard found, location marked on map, returning to search.	none
+-33.80001215	151.15726951	Hazard found, location marked on map, returning to search.	none
+-33.80001200	151.15726931	Hazard found, location marked on map, returning to search.	none
+-33.80001176	151.15726891	Hazard found, location marked on map, returning to search.	none
+-33.80001143	151.15726844	Hazard found, location marked on map, returning to search.	none
+-33.80001105	151.15726779	Hazard found, location marked on map, returning to search.	none
+-33.80001072	151.15726714	Hazard found, location marked on map, returning to search.	none
+-33.80001048	151.15726651	Hazard found, location marked on map, returning to search.	none
+-33.80001022	151.15726600	Hazard found, location marked on map, returning to search.	none
+-33.80001001	151.15726568	Hazard found, location marked on map, returning to search.	none
+-33.80000985	151.15726546	Hazard found, location marked on map, returning to search.	none
+-33.80000984	151.15726538	Hazard found, location marked on map, returning to search.	none
+-33.80000989	151.15726533	Hazard found, location marked on map, returning to search.	none
+-33.80001005	151.15726535	Hazard found, location marked on map, returning to search.	none
+-33.80001012	151.15726533	Hazard found, location marked on map, returning to search.	none
+-33.80001013	151.15726529	Hazard found, location marked on map, returning to search.	none
+-33.80001008	151.15726526	Hazard found, location marked on map, returning to search.	none
+-33.80001004	151.15726520	Hazard found, location marked on map, returning to search.	none
+-33.80001002	151.15726516	Hazard found, location marked on map, returning to search.	none
+-33.80001009	151.15726513	Hazard found, location marked on map, returning to search.	none
+-33.80001016	151.15726513	Hazard found, location marked on map, returning to search.	none
+-33.80001024	151.15726504	Hazard found, location marked on map, returning to search.	none
+-33.80001035	151.15726493	Hazard found, location marked on map, returning to search.	none
+-33.80001049	151.15726486	Hazard found, location marked on map, returning to search.	none
+-33.80001061	151.15726489	Hazard found, location marked on map, returning to search.	none
+-33.80001069	151.15726499	Hazard found, location marked on map, returning to search.	none
+-33.80001072	151.15726507	Hazard found, location marked on map, returning to search.	none
+-33.80001073	151.15726507	Hazard found, location marked on map, returning to search.	none
+-33.80001073	151.15726499	Hazard found, location marked on map, returning to search.	none
+-33.80001072	151.15726476	Hazard found, location marked on map, returning to search.	none
+-33.80001071	151.15726443	Hazard found, location marked on map, returning to search.	none
+-33.80001078	151.15726388	Hazard found, location marked on map, returning to search.	none
+-33.80001088	151.15726327	Hazard found, location marked on map, returning to search.	none
+-33.80001104	151.15726246	Hazard found, location marked on map, returning to search.	none
+-33.80001117	151.15726153	Hazard found, location marked on map, returning to search.	none
+-33.80001125	151.15726038	Hazard found, location marked on map, returning to search.	none
+-33.80001128	151.15725910	Hazard found, location marked on map, returning to search.	none
+-33.80001132	151.15725751	Hazard found, location marked on map, returning to search.	none
+-33.80001139	151.15725578	Hazard found, location marked on map, returning to search.	none
+-33.80001146	151.15725380	Hazard found, location marked on map, returning to search.	none
+-33.80001150	151.15725163	Hazard found, location marked on map, returning to search.	none
+-33.80001146	151.15724921	Hazard found, location marked on map, returning to search.	none
+-33.80001139	151.15724669	Hazard found, location marked on map, returning to search.	none
+-33.80001126	151.15724405	Hazard found, location marked on map, returning to search.	none
+-33.80001116	151.15724133	Hazard found, location marked on map, returning to search.	none
+-33.80001105	151.15723852	Hazard found, location marked on map, returning to search.	none
+-33.80001099	151.15723557	Hazard found, location marked on map, returning to search.	none
+-33.80001096	151.15723248	Hazard found, location marked on map, returning to search.	none
+-33.80001094	151.15722923	Hazard found, location marked on map, returning to search.	none
+-33.80001091	151.15722582	Hazard found, location marked on map, returning to search.	none
+-33.80001089	151.15722227	Hazard found, location marked on map, returning to search.	none
+-33.80001087	151.15721864	Hazard found, location marked on map, returning to search.	none
+-33.80001088	151.15721491	Hazard found, location marked on map, returning to search.	none
+-33.80001090	151.15721113	Hazard found, location marked on map, returning to search.	none
+-33.80001097	151.15720734	Hazard found, location marked on map, returning to search.	none
+-33.80001106	151.15720368	Hazard found, location marked on map, returning to search.	none
+-33.80001115	151.15719998	Hazard found, location marked on map, returning to search.	none
+-33.80001121	151.15719636	Hazard found, location marked on map, returning to search.	none
+-33.80001128	151.15719264	Searching…	none
+-33.80001137	151.15718894	Searching…	none
+-33.80001147	151.15718519	Searching…	none
+-33.80001157	151.15718150	Searching…	none
+-33.80001171	151.15717773	Searching…	none
+-33.80001187	151.15717402	Searching…	none
+-33.80001198	151.15717030	Searching…	none
+-33.80001208	151.15716657	Searching…	none
+-33.80001216	151.15716279	Searching…	none
+-33.80001226	151.15715898	Searching…	none
+-33.80001237	151.15715518	Searching…	none
+-33.80001250	151.15715146	Searching…	none
+-33.80001263	151.15714773	Searching…	none
+-33.80001281	151.15714395	Searching…	none
+-33.80001299	151.15714015	Searching…	none
+-33.80001323	151.15713632	Searching…	none
+-33.80001344	151.15713246	Searching…	none
+-33.80001370	151.15712854	Searching…	none
+-33.80001392	151.15712461	Searching…	none
+-33.80001416	151.15712063	Searching…	none
+-33.80001436	151.15711668	Searching…	none
+-33.80001453	151.15711268	Searching…	none
+-33.80001468	151.15710870	Searching…	none
+-33.80001488	151.15710472	Searching…	none
+-33.80001510	151.15710077	Searching…	none
+-33.80001539	151.15709682	Searching…	none
+-33.80001567	151.15709291	Searching…	none
+-33.80001599	151.15708908	Searching…	none
+-33.80001625	151.15708524	Searching…	none
+-33.80001652	151.15708135	Searching…	none
+-33.80001677	151.15707742	Searching…	none
+-33.80001705	151.15707336	Searching…	none
+-33.80001735	151.15706929	Searching…	none
+-33.80001776	151.15706515	Searching…	none
+-33.80001819	151.15706104	Searching…	none
+-33.80001868	151.15705693	Searching…	none
+-33.80001916	151.15705284	Searching…	none
+-33.80001967	151.15704874	Searching…	none
+-33.80002009	151.15704468	Searching…	none
+-33.80002045	151.15704069	Searching…	none
+-33.80002072	151.15703675	Searching…	none
+-33.80002090	151.15703288	Searching…	none
+-33.80002101	151.15702906	Searching…	none
+-33.80002106	151.15702535	Searching…	none
+-33.80002110	151.15702166	Searching…	none
+-33.80002115	151.15701799	Searching…	none
+-33.80002119	151.15701431	Searching…	none
+-33.80002129	151.15701066	Searching…	none
+-33.80002139	151.15700699	Searching…	none
+-33.80002155	151.15700328	Searching…	none
+-33.80002168	151.15699956	Searching…	none
+-33.80002187	151.15699579	Searching…	none
+-33.80002206	151.15699202	Searching…	none
+-33.80002230	151.15698829	Searching…	none
+-33.80002253	151.15698467	Searching…	none
+-33.80002278	151.15698121	Searching…	none
+-33.80002300	151.15697797	Searching…	none
+-33.80002327	151.15697508	Searching…	none
+-33.80002353	151.15697245	Searching…	none
+-33.80002385	151.15697016	Searching…	none
+-33.80002414	151.15696812	Searching…	none
+-33.80002452	151.15696650	Searching…	none
+-33.80002487	151.15696512	Searching…	none
+-33.80002526	151.15696414	Searching…	none
+-33.80002562	151.15696340	Searching…	none
+-33.80002603	151.15696294	Searching…	none
+-33.80002641	151.15696270	Searching…	none
+-33.80002687	151.15696273	Searching…	none
+-33.80002730	151.15696298	Searching…	none
+-33.80002782	151.15696341	Searching…	none
+-33.80002828	151.15696407	Searching…	none
+-33.80002883	151.15696490	Searching…	none
+-33.80002926	151.15696599	Searching…	none
+-33.80002968	151.15696721	Searching…	none
+-33.80003004	151.15696866	Searching…	none
+-33.80003041	151.15697026	Searching…	none
+-33.80003073	151.15697210	Searching…	none
+-33.80003117	151.15697406	Searching…	none
+-33.80003159	151.15697622	Searching…	none
+-33.80003211	151.15697850	Searching…	none
+-33.80003262	151.15698097	Searching…	none
+-33.80003325	151.15698352	Searching…	none
+-33.80003388	151.15698626	Searching…	none
+-33.80003459	151.15698907	Searching…	none
+-33.80003532	151.15699204	Searching…	none
+-33.80003620	151.15699508	Searching…	none
+-33.80003712	151.15699824	Searching…	none
+-33.80003820	151.15700138	Searching…	none
+-33.80003931	151.15700461	Searching…	none
+-33.80004058	151.15700779	Searching…	none
+-33.80004188	151.15701108	Searching…	none
+-33.80004326	151.15701436	Searching…	none
+-33.80004467	151.15701773	Searching…	none
+-33.80004617	151.15702107	Searching…	none
+-33.80004765	151.15702448	Searching…	none
+-33.80004915	151.15702782	Searching…	none
+-33.80005061	151.15703123	Searching…	none
+-33.80005207	151.15703463	Searching…	none
+-33.80005352	151.15703810	Searching…	none
+-33.80005493	151.15704153	Searching…	none
+-33.80005633	151.15704498	Searching…	none
+-33.80005772	151.15704834	Searching…	none
+-33.80005913	151.15705172	Searching…	none
+-33.80006050	151.15705506	Searching…	none
+-33.80006190	151.15705840	Searching…	none
+-33.80006332	151.15706168	Searching…	none
+-33.80006476	151.15706501	Searching…	none
+-33.80006621	151.15706833	Searching…	none
+-33.80006767	151.15707170	Searching…	none
+-33.80006914	151.15707510	Searching…	none
+-33.80007060	151.15707848	Searching…	none
+-33.80007209	151.15708192	Searching…	none
+-33.80007358	151.15708539	Searching…	none
+-33.80007516	151.15708896	Searching…	none
+-33.80007675	151.15709254	Searching…	none
+-33.80007834	151.15709610	Searching…	none
+-33.80007995	151.15709965	Searching…	none
+-33.80008160	151.15710316	Searching…	none
+-33.80008324	151.15710671	Searching…	none
+-33.80008489	151.15711030	Searching…	none
+-33.80008653	151.15711392	Searching…	none
+-33.80008824	151.15711757	Searching…	none
+-33.80008995	151.15712123	Searching…	none
+-33.80009167	151.15712493	Searching…	none
+-33.80009337	151.15712864	Searching…	none
+-33.80009502	151.15713240	Searching…	none
+-33.80009665	151.15713618	Searching…	none
+-33.80009828	151.15714000	Searching…	none
+-33.80009994	151.15714379	Searching…	none
+-33.80010169	151.15714747	Searching…	none
+-33.80010344	151.15715108	Searching…	none
+-33.80010528	151.15715454	Searching…	none
+-33.80010708	151.15715796	Searching…	none
+-33.80010888	151.15716128	Searching…	none
+-33.80011066	151.15716459	Searching…	none
+-33.80011238	151.15716784	Searching…	none
+-33.80011409	151.15717111	Searching…	none
+-33.80011574	151.15717442	Searching…	none
+-33.80011738	151.15717775	Searching…	none
+-33.80011905	151.15718118	Searching…	none
+-33.80012070	151.15718460	Searching…	none
+-33.80012230	151.15718801	Searching…	none
+-33.80012389	151.15719141	Searching…	none
+-33.80012554	151.15719481	Searching…	none
+-33.80012715	151.15719819	Searching…	none
+-33.80012868	151.15720160	Searching…	none
+-33.80013013	151.15720499	Searching…	none
+-33.80013150	151.15720840	Searching…	none
+-33.80013281	151.15721183	Searching…	none
+-33.80013407	151.15721532	Searching…	none
+-33.80013528	151.15721883	Searching…	none
+-33.80013653	151.15722239	Searching…	none
+-33.80013778	151.15722594	Searching…	none
+-33.80013911	151.15722952	Searching…	none
+-33.80014041	151.15723316	Searching…	none
+-33.80014174	151.15723682	Searching…	none
+-33.80014299	151.15724047	Searching…	none
+-33.80014427	151.15724414	Searching…	none
+-33.80014545	151.15724781	Searching…	none
+-33.80014655	151.15725146	Searching…	none
+-33.80014752	151.15725511	Searching…	none
+-33.80014837	151.15725881	Searching…	none
+-33.80014908	151.15726246	Searching…	none
+-33.80014963	151.15726608	Searching…	none
+-33.80015008	151.15726964	Searching…	none
+-33.80015032	151.15727320	Searching…	none
+-33.80015051	151.15727674	Searching…	none
+-33.80015053	151.15728033	Searching…	none
+-33.80015052	151.15728387	Searching…	none
+-33.80015038	151.15728743	Searching…	none
+-33.80015022	151.15729094	Searching…	none
+-33.80014999	151.15729439	Searching…	none
+-33.80014974	151.15729782	Searching…	none
+-33.80014942	151.15730132	Searching…	none
+-33.80014910	151.15730484	Searching…	none
+-33.80014881	151.15730846	Searching…	none
+-33.80014850	151.15731208	Searching…	none
+-33.80014817	151.15731574	Searching…	none
+-33.80014777	151.15731937	Searching…	none
+-33.80014736	151.15732300	Searching…	none
+-33.80014687	151.15732662	Searching…	none
+-33.80014635	151.15733024	Searching…	none
+-33.80014576	151.15733385	Searching…	none
+-33.80014512	151.15733751	Searching…	none
+-33.80014440	151.15734115	Searching…	none
+-33.80014362	151.15734481	Searching…	none
+-33.80014275	151.15734847	Searching…	none
+-33.80014183	151.15735215	Searching…	none
+-33.80014083	151.15735582	Searching…	none
+-33.80013975	151.15735945	Searching…	none
+-33.80013859	151.15736308	Searching…	none
+-33.80013734	151.15736678	Searching…	none
+-33.80013601	151.15737048	Searching…	none
+-33.80013460	151.15737408	Searching…	none
+-33.80013311	151.15737768	Searching…	none
+-33.80013156	151.15738131	Searching…	none
+-33.80012994	151.15738492	Searching…	none
+-33.80012827	151.15738848	Searching…	none
+-33.80012655	151.15739201	Searching…	none
+-33.80012484	151.15739550	Searching…	none
+-33.80012310	151.15739894	Searching…	none
+-33.80012145	151.15740233	Searching…	none
+-33.80011978	151.15740570	Searching…	none
+-33.80011810	151.15740909	Searching…	none
+-33.80011636	151.15741247	Searching…	none
+-33.80011460	151.15741576	Searching…	none
+-33.80011278	151.15741895	Searching…	none
+-33.80011094	151.15742200	Searching…	none
+-33.80010904	151.15742503	Searching…	none
+-33.80010709	151.15742802	Searching…	none
+-33.80010508	151.15743103	Searching…	none
+-33.80010305	151.15743398	Searching…	none
+-33.80010097	151.15743690	Searching…	none
+-33.80009885	151.15743982	Searching…	none
+-33.80009663	151.15744270	Searching…	none
+-33.80009435	151.15744550	Searching…	none
+-33.80009202	151.15744824	Searching…	none
+-33.80008961	151.15745095	Searching…	none
+-33.80008720	151.15745362	Searching…	none
+-33.80008483	151.15745618	Searching…	none
+-33.80008245	151.15745873	Searching…	none
+-33.80008015	151.15746123	Searching…	none
+-33.80007783	151.15746376	Searching…	none
+-33.80007558	151.15746630	Searching…	none
+-33.80007330	151.15746887	Searching…	none
+-33.80007107	151.15747145	Searching…	none
+-33.80006881	151.15747403	Searching…	none
+-33.80006657	151.15747666	Searching…	none
+-33.80006430	151.15747929	Searching…	none
+-33.80006203	151.15748193	Searching…	none
+-33.80005975	151.15748458	Searching…	none
+-33.80005750	151.15748722	Searching…	none
+-33.80005526	151.15748986	Searching…	none
+-33.80005305	151.15749255	Searching…	none
+-33.80005083	151.15749522	Searching…	none
+-33.80004865	151.15749787	Searching…	none
+-33.80004646	151.15750051	Searching…	none
+-33.80004428	151.15750317	Searching…	none
+-33.80004209	151.15750584	Searching…	none
+-33.80003987	151.15750848	Searching…	none
+-33.80003763	151.15751112	Searching…	none
+-33.80003538	151.15751379	Searching…	none
+-33.80003311	151.15751650	Searching…	none
+-33.80003081	151.15751928	Searching…	none
+-33.80002851	151.15752208	Searching…	none
+-33.80002628	151.15752480	Searching…	none
+-33.80002406	151.15752755	Searching…	none
+-33.80002188	151.15753031	Searching…	none
+-33.80001970	151.15753309	Searching…	none
+-33.80001757	151.15753585	Searching…	none
+-33.80001544	151.15753862	Searching…	none
+-33.80001336	151.15754137	Searching…	none
+-33.80001127	151.15754413	Searching…	none
+-33.80000925	151.15754689	Searching…	none
+-33.80000722	151.15754966	Searching…	none
+-33.80000520	151.15755241	Searching…	none
+-33.80000316	151.15755516	Searching…	none
+-33.80000112	151.15755790	Searching…	none
+-33.79999906	151.15756066	Searching…	none
+-33.79999698	151.15756348	Searching…	none
+-33.79999488	151.15756635	Searching…	none
+-33.79999279	151.15756923	Searching…	none
+-33.79999067	151.15757210	Searching…	none
+-33.79998859	151.15757489	Searching…	none
+-33.79998649	151.15757771	Searching…	none
+-33.79998439	151.15758052	Searching…	none
+-33.79998227	151.15758334	Searching…	none
+-33.79998016	151.15758615	Searching…	none
+-33.79997804	151.15758899	Searching…	none
+-33.79997594	151.15759185	Searching…	none
+-33.79997382	151.15759474	Searching…	none
+-33.79997176	151.15759757	Searching…	none
+-33.79996969	151.15760041	Searching…	none
+-33.79996764	151.15760324	Searching…	none
+-33.79996557	151.15760607	Searching…	none
+-33.79996354	151.15760890	Searching…	none
+-33.79996149	151.15761176	Searching…	none
+-33.79995946	151.15761461	Searching…	none
+-33.79995742	151.15761744	Searching…	none
+-33.79995542	151.15762026	Searching…	none
+-33.79995346	151.15762301	Searching…	none
+-33.79995157	151.15762563	Searching…	none
+-33.79994973	151.15762818	Searching…	none
+-33.79994800	151.15763059	Searching…	none
+-33.79994631	151.15763295	Searching…	none
+-33.79994469	151.15763517	Searching…	none
+-33.79994310	151.15763738	Searching…	none
+-33.79994158	151.15763951	Searching…	none
+-33.79994008	151.15764162	Searching…	none
+-33.79993864	151.15764361	Searching…	none
+-33.79993722	151.15764559	Searching…	none
+-33.79993582	151.15764753	Searching…	none
+-33.79993443	151.15764945	Searching…	none
+-33.79993306	151.15765126	Searching…	none
+-33.79993171	151.15765304	Searching…	none
+-33.79993040	151.15765482	Searching…	none
+-33.79992911	151.15765656	Searching…	none
+-33.79992784	151.15765820	Searching…	none
+-33.79992657	151.15765980	Searching…	none
+-33.79992532	151.15766133	Searching…	none
+-33.79992404	151.15766286	Searching…	none
+-33.79992270	151.15766440	Searching…	none
+-33.79992134	151.15766600	Searching…	none
+-33.79991996	151.15766768	Searching…	none
+-33.79991858	151.15766936	Searching…	none
+-33.79991720	151.15767113	Searching…	none
+-33.79991585	151.15767290	Searching…	none
+-33.79991454	151.15767465	Searching…	none
+-33.79991327	151.15767635	Searching…	none
+-33.79991210	151.15767800	Searching…	none
+-33.79991100	151.15767956	Searching…	none
+-33.79991008	151.15768097	Searching…	none
+-33.79990923	151.15768228	Search path completed.	none
+-33.79990863	151.15768339	Search path completed.	none
+-33.79990814	151.15768441	Search path completed.	none
+-33.79990786	151.15768521	Search path completed.	none
+-33.79990762	151.15768588	Search path completed.	none
+-33.79990753	151.15768630	Search path completed.	none
+-33.79990750	151.15768662	Search path completed.	none
+-33.79990754	151.15768670	Search path completed.	none
+-33.79990763	151.15768673	Search path completed.	none
+-33.79990775	151.15768666	Search path completed.	none
+-33.79990788	151.15768660	Search path completed.	none
+-33.79990796	151.15768653	Search path completed.	none
+-33.79990806	151.15768645	Search path completed.	none
+-33.79990813	151.15768638	Search path completed.	none
+-33.79990823	151.15768628	Search path completed.	none
+-33.79990831	151.15768621	Search path completed.	none
+-33.79990843	151.15768612	Search path completed.	none
+-33.79990855	151.15768610	Search path completed.	none
+-33.79990866	151.15768609	Search path completed.	none
+-33.79990874	151.15768612	Search path completed.	none
+-33.79990883	151.15768612	Search path completed.	none
+-33.79990884	151.15768615	Search path completed.	none
+-33.79990886	151.15768615	Search path completed.	none
+-33.79990888	151.15768616	Search path completed.	none
+-33.79990889	151.15768617	Search path completed.	none
+-33.79990885	151.15768619	Search path completed.	none
+-33.79990879	151.15768623	Search path completed.	none
+-33.79990875	151.15768632	Search path completed.	none
+-33.79990870	151.15768640	Search path completed.	none
+-33.79990867	151.15768649	Search path completed.	none
+-33.79990865	151.15768656	Search path completed.	none
+-33.79990867	151.15768660	Search path completed.	none
+-33.79990868	151.15768662	Search path completed.	none
+-33.79990876	151.15768659	Search path completed.	none
+-33.79990886	151.15768655	Search path completed.	none
+-33.79990904	151.15768655	Search path completed.	none
+-33.79990918	151.15768657	Search path completed.	none
+-33.79990933	151.15768658	Search path completed.	none
+-33.79990943	151.15768656	Search path completed.	none
+-33.79990957	151.15768646	Search path completed.	none
+-33.79990969	151.15768634	Search path completed.	none
+-33.79990985	151.15768620	Search path completed.	none
+-33.79991001	151.15768606	Search path completed.	none
+-33.79991019	151.15768586	Search path completed.	none
+-33.79991033	151.15768569	Search path completed.	none
+-33.79991048	151.15768549	Search path completed.	none
+-33.79991062	151.15768531	Returning home…	none
+-33.79991076	151.15768513	Returning home…	none
+-33.79991085	151.15768496	Returning home…	none
+-33.79991093	151.15768484	Returning home…	none
+-33.79991099	151.15768471	Returning home…	none
+-33.79991101	151.15768463	Returning home…	none
+-33.79991094	151.15768453	Returning home…	none
+-33.79991084	151.15768446	Returning home…	none
+-33.79991070	151.15768446	Returning home…	none
+-33.79991057	151.15768450	Returning home…	none
+-33.79991045	151.15768455	Returning home…	none
+-33.79991037	151.15768470	Returning home…	none
+-33.79991030	151.15768489	Returning home…	none
+-33.79991043	151.15768507	Returning home…	none
+-33.79991056	151.15768518	Returning home…	none
+-33.79991071	151.15768520	Returning home…	none
+-33.79991078	151.15768518	Returning home…	none
+-33.79991080	151.15768512	Returning home…	none
+-33.79991077	151.15768507	Returning home…	none
+-33.79991068	151.15768501	Returning home…	none
+-33.79991059	151.15768494	Returning home…	none
+-33.79991056	151.15768479	Returning home…	none
+-33.79991059	151.15768450	Returning home…	none
+-33.79991073	151.15768401	Returning home…	none
+-33.79991084	151.15768337	Returning home…	none
+-33.79991100	151.15768248	Returning home…	none
+-33.79991111	151.15768145	Returning home…	none
+-33.79991121	151.15768018	Returning home…	none
+-33.79991128	151.15767876	Returning home…	none
+-33.79991142	151.15767700	Returning home…	none
+-33.79991157	151.15767502	Returning home…	none
+-33.79991184	151.15767276	Returning home…	none
+-33.79991214	151.15767032	Returning home…	none
+-33.79991256	151.15766764	Returning home…	none
+-33.79991294	151.15766480	Returning home…	none
+-33.79991336	151.15766169	Returning home…	none
+-33.79991372	151.15765838	Returning home…	none
+-33.79991413	151.15765488	Returning home…	none
+-33.79991449	151.15765116	Returning home…	none
+-33.79991484	151.15764719	Returning home…	none
+-33.79991513	151.15764298	Returning home…	none
+-33.79991537	151.15763847	Returning home…	none
+-33.79991560	151.15763372	Returning home…	none
+-33.79991583	151.15762877	Returning home…	none
+-33.79991605	151.15762353	Returning home…	none
+-33.79991634	151.15761799	Returning home…	none
+-33.79991666	151.15761216	Returning home…	none
+-33.79991706	151.15760608	Returning home…	none
+-33.79991740	151.15759973	Returning home…	none
+-33.79991778	151.15759312	Returning home…	none
+-33.79991809	151.15758629	Returning home…	none
+-33.79991839	151.15757932	Returning home…	none
+-33.79991864	151.15757212	Returning home…	none
+-33.79991891	151.15756468	Returning home…	none
+-33.79991915	151.15755705	Returning home…	none
+-33.79991942	151.15754927	Returning home…	none
+-33.79991969	151.15754132	Returning home…	none
+-33.79991998	151.15753324	Returning home…	none
+-33.79992022	151.15752494	Returning home…	none
+-33.79992051	151.15751650	Returning home…	none
+-33.79992075	151.15750780	Returning home…	none
+-33.79992097	151.15749887	Returning home…	none
+-33.79992115	151.15748966	Returning home…	none
+-33.79992131	151.15748020	Returning home…	none
+-33.79992141	151.15747044	Returning home…	none
+-33.79992146	151.15746020	Returning home…	none
+-33.79992145	151.15744971	Returning home…	none
+-33.79992139	151.15743898	Returning home…	none
+-33.79992139	151.15742808	Returning home…	none
+-33.79992145	151.15741708	Returning home…	none
+-33.79992157	151.15740599	Returning home…	none
+-33.79992179	151.15739489	Returning home…	none
+-33.79992200	151.15738374	Returning home…	none
+-33.79992223	151.15737280	Returning home…	none
+-33.79992243	151.15736174	Returning home…	none
+-33.79992261	151.15735080	Returning home…	none
+-33.79992275	151.15733975	Returning home…	none
+-33.79992283	151.15732879	Returning home…	none
+-33.79992287	151.15731773	Returning home…	none
+-33.79992285	151.15730670	Returning home…	none
+-33.79992284	151.15729558	Returning home…	none
+-33.79992284	151.15728455	Returning home…	none
+-33.79992282	151.15727349	Returning home…	none
+-33.79992283	151.15726254	Returning home…	none
+-33.79992287	151.15725158	Returning home…	none
+-33.79992295	151.15724073	Returning home…	none
+-33.79992306	151.15722987	Returning home…	none
+-33.79992325	151.15721906	Returning home…	none
+-33.79992349	151.15720827	Returning home…	none
+-33.79992375	151.15719765	Returning home…	none
+-33.79992398	151.15718707	Returning home…	none
+-33.79992427	151.15717657	Returning home…	none
+-33.79992456	151.15716605	Returning home…	none
+-33.79992484	151.15715554	Returning home…	none
+-33.79992510	151.15714497	Returning home…	none
+-33.79992535	151.15713427	Returning home…	none
+-33.79992561	151.15712349	Returning home…	none
+-33.79992577	151.15711253	Returning home…	none
+-33.79992589	151.15710148	Returning home…	none
+-33.79992598	151.15709026	Returning home…	none
+-33.79992607	151.15707903	Returning home…	none
+-33.79992613	151.15706778	Returning home…	none
+-33.79992628	151.15705662	Returning home…	none
+-33.79992644	151.15704551	Returning home…	none
+-33.79992666	151.15703445	Returning home…	none
+-33.79992697	151.15702363	Returning home…	none
+-33.79992731	151.15701284	Returning home…	none
+-33.79992771	151.15700210	Returning home…	none
+-33.79992809	151.15699134	Returning home…	none
+-33.79992846	151.15698065	Returning home…	none
+-33.79992880	151.15697002	Returning home…	none
+-33.79992915	151.15695951	Returning home…	none
+-33.79992951	151.15694910	Returning home…	none
+-33.79992993	151.15693871	Returning home…	none
+-33.79993036	151.15692850	Returning home…	none
+-33.79993078	151.15691858	Returning home…	none
+-33.79993122	151.15690890	Returning home…	none
+-33.79993165	151.15689955	Returning home…	none
+-33.79993208	151.15689039	Returning home…	none
+-33.79993246	151.15688161	Returning home…	none
+-33.79993284	151.15687302	Returning home…	none
+-33.79993319	151.15686475	Returning home…	none
+-33.79993354	151.15685657	Returning home…	none
+-33.79993378	151.15684862	Returning home…	none
+-33.79993399	151.15684086	Returning home…	none
+-33.79993407	151.15683335	Returning home…	none
+-33.79993415	151.15682602	Returning home…	none
+-33.79993417	151.15681893	Returning home…	none
+-33.79993426	151.15681210	Returning home…	none
+-33.79993436	151.15680567	Returning home…	none
+-33.79993459	151.15679955	Returning home…	none
+-33.79993494	151.15679371	Returning home…	none
+-33.79993535	151.15678801	Returning home…	none
+-33.79993583	151.15678250	Returning home…	none
+-33.79993631	151.15677712	Returning home…	none
+-33.79993677	151.15677189	Returning home…	none
+-33.79993721	151.15676692	Returning home…	none
+-33.79993752	151.15676221	Returning home…	none
+-33.79993778	151.15675793	Returning home…	none
+-33.79993795	151.15675406	Returning home…	none
+-33.79993813	151.15675059	Returning home…	none
+-33.79993816	151.15674760	Returning home…	none
+-33.79993820	151.15674493	Returning home…	none
+-33.79993815	151.15674267	Returning home…	none
+-33.79993813	151.15674085	Returning home…	none
+-33.79993796	151.15673950	Returning home…	none
+-33.79993784	151.15673847	Returning home…	none
+-33.79993772	151.15673786	Returning home…	none
+-33.79993775	151.15673747	Returning home…	none
+-33.79993787	151.15673732	Returning home…	none
+-33.79993812	151.15673735	Returning home…	none
+-33.79993844	151.15673738	Returning home…	none
+-33.79993877	151.15673744	Returning home…	none
+-33.79993894	151.15673738	Returning home…	none
+-33.79993908	151.15673726	Returning home…	none
+-33.79993916	151.15673690	Returning home…	none
+-33.79993928	151.15673652	Returning home…	none
+-33.79993942	151.15673590	Returning home…	none
+-33.79993960	151.15673534	Returning home…	none
+-33.79993978	151.15673466	Returning home…	none
+-33.79993998	151.15673409	Returning home…	none
+-33.79994024	151.15673357	Returning home…	none
+-33.79994047	151.15673316	Returning home…	none
+-33.79994070	151.15673283	Returning home…	none
+-33.79994090	151.15673256	Returning home…	none
+-33.79994116	151.15673234	Returning home…	none
+-33.79994139	151.15673213	Returning home…	none
+-33.79994165	151.15673197	Returning home…	none
+-33.79994183	151.15673186	Returning home…	none
+-33.79994199	151.15673178	Returning home…	none
+-33.79994209	151.15673172	Returning home…	none
+-33.79994223	151.15673172	Returning home…	none
+-33.79994233	151.15673171	Returning home…	none
+-33.79994241	151.15673177	Returning home…	none
+-33.79994246	151.15673183	Returning home…	none
+-33.79994249	151.15673192	Returning home…	none
+-33.79994249	151.15673199	Returning home…	none
+-33.79994248	151.15673202	Returning home…	none
+-33.79994247	151.15673200	Returning home…	none
+-33.79994249	151.15673194	Returning home…	none
+-33.79994251	151.15673188	Returning home…	none
+-33.79994259	151.15673187	Returning home…	none
+-33.79994263	151.15673188	Returning home…	none
+-33.79994265	151.15673195	Returning home…	none
+-33.79994264	151.15673198	Returning home…	none
+-33.79994268	151.15673206	Returning home…	none
+-33.79994269	151.15673213	Returning home…	none
+-33.79994270	151.15673223	Returning home…	none
+-33.79994266	151.15673229	Returning home…	none
+-33.79994259	151.15673235	Returning home…	none
+-33.79994249	151.15673238	Returning home…	none
+-33.79994238	151.15673241	Returning home…	none
+-33.79994226	151.15673245	Returning home…	none
+-33.79994216	151.15673252	Returning home…	none
+-33.79994206	151.15673258	Returning home…	none
+-33.79994198	151.15673269	Returning home…	none
+-33.79994187	151.15673280	Landing…	none
+-33.79994178	151.15673292	Landing…	none
+-33.79994168	151.15673302	Landing…	none
+-33.79994161	151.15673315	Landing…	none
+-33.79994153	151.15673326	Landing…	none
+-33.79994150	151.15673339	Landing…	none
+-33.79994145	151.15673348	Landing…	none
+-33.79994143	151.15673361	Landing…	none
+-33.79994139	151.15673372	Landing…	none
+-33.79994138	151.15673382	Landing…	none
+-33.79994135	151.15673388	Landing…	none
+-33.79994139	151.15673397	Landing…	none
+-33.79994145	151.15673405	Landing…	none
+-33.79994155	151.15673415	Landing…	none
+-33.79994166	151.15673422	Landing…	none
+-33.79994184	151.15673427	Landing…	none
+-33.79994199	151.15673427	Landing…	none
+-33.79994219	151.15673425	Landing…	none
+-33.79994235	151.15673422	Landing…	none
+-33.79994253	151.15673419	Landing…	none
+-33.79994268	151.15673415	Landing…	none
+-33.79994282	151.15673413	Landing…	none
+-33.79994295	151.15673410	Landing…	none
+-33.79994312	151.15673414	Landing…	none
+-33.79994328	151.15673418	Landing…	none
+-33.79994346	151.15673428	Landing…	none
+-33.79994360	151.15673438	Landing…	none
+-33.79994367	151.15673449	Landing…	none
+-33.79994372	151.15673454	Landing…	none
+-33.79994373	151.15673447	Landing…	none
+-33.79994371	151.15673433	Landing…	none
+-33.79994367	151.15673416	Landing…	none
+-33.79994363	151.15673396	Landing…	none
+-33.79994363	151.15673375	Landing…	none
+-33.79994361	151.15673357	Landing…	none
+-33.79994362	151.15673345	Landing…	none
+-33.79994361	151.15673345	Landing…	none
+-33.79994358	151.15673358	Landing…	none
+-33.79994350	151.15673372	Landing…	none
+-33.79994339	151.15673388	Landing…	none
+-33.79994327	151.15673397	Landing…	none
+-33.79994312	151.15673401	Landing…	none
+-33.79994300	151.15673399	Landing…	none
+-33.79994291	151.15673385	Landing…	none
+-33.79994287	151.15673368	Landing…	none
+-33.79994288	151.15673349	Landing…	none
+-33.79994290	151.15673329	Landing…	none
+-33.79994298	151.15673315	Landing…	none
+-33.79994303	151.15673303	Landing…	none
+-33.79994308	151.15673294	Landing…	none
+-33.79994311	151.15673283	Landing…	none
+-33.79994318	151.15673274	Landing…	none
+-33.79994324	151.15673265	Landing…	none
+-33.79994334	151.15673258	Landing…	none
+-33.79994343	151.15673249	Landing…	none
+-33.79994353	151.15673242	Landing…	none
+-33.79994364	151.15673235	Landing…	none
+-33.79994378	151.15673232	Landing…	none
+-33.79994393	151.15673231	Landing…	none
+-33.79994408	151.15673241	Landing…	none
+-33.79994421	151.15673252	Landing…	none
+-33.79994434	151.15673274	Landing…	none
+-33.79994446	151.15673296	Landing…	none
+-33.79994453	151.15673324	Landing…	none
+-33.79994460	151.15673351	Landing…	none
+-33.79994467	151.15673380	Landing…	none
+-33.79994474	151.15673410	Landing…	none
+-33.79994485	151.15673449	Landing…	none
+-33.79994500	151.15673486	Landing…	none
+-33.79994520	151.15673521	Landing…	none
+-33.79994543	151.15673549	Landing…	none
+-33.79994572	151.15673573	Landing…	none
+-33.79994598	151.15673591	Landing…	none
+-33.79994620	151.15673604	Landing…	none
+-33.79994634	151.15673610	Landing…	none
+-33.79994641	151.15673607	Landing…	none
+-33.79994645	151.15673600	Landing…	none
+-33.79994643	151.15673591	Landing…	none
+-33.79994639	151.15673585	Landing…	none
+-33.79994629	151.15673573	Landing…	none
+-33.79994622	151.15673555	Landing…	none
+-33.79994618	151.15673529	Landing…	none
+-33.79994617	151.15673502	Landing…	none
+-33.79994621	151.15673477	Landing…	none
+-33.79994625	151.15673454	Landing…	none
+-33.79994634	151.15673434	Landing…	none
+-33.79994643	151.15673415	Landing…	none
+-33.79994658	151.15673407	Landing…	none
+-33.79994671	151.15673405	Landing…	none
+-33.79994685	151.15673410	Landing…	none
+-33.79994692	151.15673418	Landing…	none
+-33.79994698	151.15673435	Landing…	none
+-33.79994701	151.15673443	Landing…	none
+-33.79994704	151.15673446	Landing…	none
+-33.79994704	151.15673437	Landing…	none
+-33.79994707	151.15673410	Landing…	none
+-33.79994709	151.15673387	Landing…	none
+-33.79994710	151.15673367	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994711	151.15673352	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994711	151.15673337	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994712	151.15673323	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994715	151.15673315	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994718	151.15673315	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994727	151.15673327	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994742	151.15673346	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994771	151.15673387	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994805	151.15673448	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994849	151.15673530	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994903	151.15673624	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994968	151.15673744	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995036	151.15673878	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995108	151.15674038	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995178	151.15674208	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995240	151.15674402	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995296	151.15674609	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995343	151.15674829	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995389	151.15675052	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995431	151.15675283	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995475	151.15675508	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995508	151.15675712	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995538	151.15675900	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995564	151.15676054	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995589	151.15676190	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995608	151.15676291	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995625	151.15676385	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995646	151.15676453	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995670	151.15676523	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995707	151.15676585	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995750	151.15676645	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995804	151.15676695	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995851	151.15676746	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995904	151.15676794	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995946	151.15676835	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995984	151.15676874	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79996010	151.15676909	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79996026	151.15676945	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79996035	151.15676982	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79996042	151.15677032	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79996047	151.15677078	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79996058	151.15677125	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79996068	151.15677160	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79996082	151.15677190	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79996088	151.15677211	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79996088	151.15677225	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79996079	151.15677229	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79996065	151.15677223	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79996048	151.15677210	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79996032	151.15677194	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79996007	151.15677169	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995985	151.15677139	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995964	151.15677116	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995953	151.15677100	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995944	151.15677085	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995951	151.15677079	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995960	151.15677072	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995980	151.15677063	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995995	151.15677045	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79996011	151.15677018	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79996021	151.15676983	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79996033	151.15676938	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79996041	151.15676893	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79996051	151.15676848	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79996061	151.15676803	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79996072	151.15676765	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79996081	151.15676727	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79996086	151.15676680	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79996081	151.15676622	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79996062	151.15676557	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79996033	151.15676493	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995991	151.15676440	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995942	151.15676399	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995886	151.15676377	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995832	151.15676367	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995781	151.15676374	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995733	151.15676382	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995700	151.15676394	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995670	151.15676399	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995650	151.15676399	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995627	151.15676402	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995612	151.15676411	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995601	151.15676420	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995599	151.15676427	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995594	151.15676434	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995594	151.15676437	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995591	151.15676438	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995590	151.15676437	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995588	151.15676433	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995589	151.15676418	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995592	151.15676399	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995599	151.15676368	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995603	151.15676325	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995608	151.15676274	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995605	151.15676225	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995596	151.15676170	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995579	151.15676126	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995552	151.15676098	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995529	151.15676078	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995512	151.15676074	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995506	151.15676072	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995512	151.15676075	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995520	151.15676073	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995542	151.15676074	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995555	151.15676082	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995560	151.15676103	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995562	151.15676131	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995567	151.15676171	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995577	151.15676204	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995592	151.15676238	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995606	151.15676264	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995626	151.15676278	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995644	151.15676287	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995663	151.15676291	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995682	151.15676294	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995703	151.15676295	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995724	151.15676291	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995743	151.15676275	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995758	151.15676253	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995765	151.15676224	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995765	151.15676196	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995753	151.15676168	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995736	151.15676145	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995718	151.15676127	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995702	151.15676109	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995686	151.15676099	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995667	151.15676096	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995647	151.15676100	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995626	151.15676101	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995610	151.15676113	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995600	151.15676127	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995596	151.15676144	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995591	151.15676157	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995592	151.15676176	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995591	151.15676194	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995596	151.15676211	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995599	151.15676229	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995599	151.15676253	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995596	151.15676272	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995591	151.15676292	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995583	151.15676314	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995571	151.15676328	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995557	151.15676338	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995547	151.15676350	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995539	151.15676359	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995535	151.15676364	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995532	151.15676368	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995533	151.15676364	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995534	151.15676357	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995533	151.15676350	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995528	151.15676343	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995525	151.15676333	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995524	151.15676326	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995524	151.15676325	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995524	151.15676324	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995532	151.15676318	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995538	151.15676309	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995547	151.15676300	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995553	151.15676290	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995564	151.15676283	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995573	151.15676275	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995580	151.15676265	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995587	151.15676253	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995604	151.15676238	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995619	151.15676217	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995638	151.15676189	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995653	151.15676162	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995668	151.15676142	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995680	151.15676124	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995687	151.15676109	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995693	151.15676093	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995700	151.15676077	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995704	151.15676064	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995698	151.15676064	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995691	151.15676067	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995677	151.15676085	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995664	151.15676102	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995657	151.15676119	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995648	151.15676134	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995641	151.15676149	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995631	151.15676166	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995623	151.15676183	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995613	151.15676200	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995607	151.15676223	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995598	151.15676243	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995594	151.15676256	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995588	151.15676267	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995579	151.15676276	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995568	151.15676283	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995560	151.15676285	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995550	151.15676284	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995546	151.15676278	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995539	151.15676270	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995535	151.15676248	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995528	151.15676226	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995518	151.15676212	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995505	151.15676198	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995494	151.15676178	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995481	151.15676157	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995474	151.15676137	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995464	151.15676117	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995457	151.15676096	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995447	151.15676076	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995432	151.15676062	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995416	151.15676049	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995403	151.15676039	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995391	151.15676029	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995380	151.15676022	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995370	151.15676012	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995368	151.15676001	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995365	151.15675988	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995360	151.15675986	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995353	151.15675982	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995348	151.15675977	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995341	151.15675971	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995340	151.15675968	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995337	151.15675965	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995336	151.15675961	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995334	151.15675957	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995344	151.15675947	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995350	151.15675937	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995362	151.15675934	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995370	151.15675932	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995373	151.15675929	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995372	151.15675926	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995371	151.15675922	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995368	151.15675919	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995368	151.15675919	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995366	151.15675920	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995359	151.15675915	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995351	151.15675911	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995339	151.15675919	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995329	151.15675925	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995320	151.15675935	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995312	151.15675941	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995303	151.15675939	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995294	151.15675935	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995291	151.15675934	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995287	151.15675932	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995277	151.15675935	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995267	151.15675936	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995258	151.15675936	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995250	151.15675932	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995252	151.15675930	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995251	151.15675924	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995256	151.15675904	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995258	151.15675884	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995259	151.15675862	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995257	151.15675841	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995265	151.15675822	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995270	151.15675804	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995273	151.15675786	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995273	151.15675768	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995270	151.15675759	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995265	151.15675749	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995263	151.15675736	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995258	151.15675722	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995256	151.15675712	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995252	151.15675703	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995243	151.15675700	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995233	151.15675697	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995216	151.15675694	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995200	151.15675689	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995180	151.15675688	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995161	151.15675685	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995152	151.15675692	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995141	151.15675697	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995129	151.15675693	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995115	151.15675690	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995111	151.15675682	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995105	151.15675675	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995104	151.15675670	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995099	151.15675668	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995099	151.15675656	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995095	151.15675647	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995095	151.15675649	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995091	151.15675651	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995094	151.15675656	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995093	151.15675659	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995097	151.15675658	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995098	151.15675656	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995103	151.15675646	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995104	151.15675636	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995108	151.15675628	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995108	151.15675621	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995111	151.15675621	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995111	151.15675619	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995111	151.15675613	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995107	151.15675605	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995104	151.15675605	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995099	151.15675603	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995098	151.15675606	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995095	151.15675606	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995097	151.15675605	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995097	151.15675603	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995096	151.15675604	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995094	151.15675603	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995093	151.15675598	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995091	151.15675591	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995092	151.15675585	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995091	151.15675578	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995095	151.15675572	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995097	151.15675566	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995101	151.15675557	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995102	151.15675548	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995102	151.15675535	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995100	151.15675524	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995099	151.15675516	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995097	151.15675508	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995100	151.15675498	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995102	151.15675489	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995100	151.15675492	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995098	151.15675494	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995097	151.15675485	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995094	151.15675474	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995098	151.15675458	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995099	151.15675443	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995106	151.15675427	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995110	151.15675412	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995115	151.15675397	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995118	151.15675382	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995117	151.15675372	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995115	151.15675361	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995117	151.15675355	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995117	151.15675347	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995118	151.15675340	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995118	151.15675332	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995119	151.15675329	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995118	151.15675324	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995118	151.15675327	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995117	151.15675326	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995121	151.15675325	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995122	151.15675321	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995121	151.15675316	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995118	151.15675310	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995117	151.15675313	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995114	151.15675314	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995110	151.15675318	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995105	151.15675318	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995103	151.15675316	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995100	151.15675312	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995100	151.15675306	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995099	151.15675298	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995104	151.15675291	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995106	151.15675284	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995111	151.15675283	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995114	151.15675280	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995110	151.15675279	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995105	151.15675279	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995089	151.15675297	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995075	151.15675310	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995061	151.15675336	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995048	151.15675357	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995030	151.15675381	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79995015	151.15675397	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994996	151.15675422	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994978	151.15675441	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994963	151.15675465	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994947	151.15675484	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994945	151.15675482	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994940	151.15675481	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994944	151.15675473	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994943	151.15675468	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994953	151.15675453	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994955	151.15675444	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994960	151.15675428	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994959	151.15675418	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994963	151.15675400	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994963	151.15675384	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994968	151.15675362	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994969	151.15675344	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994975	151.15675324	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994977	151.15675309	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994981	151.15675296	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994980	151.15675285	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994981	151.15675272	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994978	151.15675259	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994979	151.15675248	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994979	151.15675236	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994981	151.15675224	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994979	151.15675212	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994980	151.15675205	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994978	151.15675195	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994979	151.15675191	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994978	151.15675186	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994980	151.15675183	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994980	151.15675179	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994982	151.15675174	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994982	151.15675168	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994983	151.15675168	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994982	151.15675166	Landing… Applying Precise Landing Position and correcting approach.	none
+-33.79994987	151.15675169	Land complete.	none
+-33.79994987	151.15675169	Land complete.	none
+-33.79994987	151.15675169	Land complete.	none
+-33.79994987	151.15675169	Land complete.	none
+-33.79994987	151.15675169	Land complete.	none
+-33.79994987	151.15675169	Land complete.	none
+-33.79994987	151.15675169	Land complete.	none
+-33.79994987	151.15675169	Land complete.	none
+
